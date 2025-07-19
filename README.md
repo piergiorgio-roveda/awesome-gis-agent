@@ -4,34 +4,29 @@ This [REPO://awesome-gis-agent](https://github.com/piergiorgio-roveda/awesome-gi
 
 ## Vibe Coding
 
-| Name | Description/Comments | Link(s) | Created time |
-| --- | --- | --- | --- |
-| `Andrej Karpathy`| "vibe coding" | https://x.com/karpathy/status/1886192184808149383 | March 9, 2025 1:19 PM |
-| Context Engineering | The Bottleneck to Better Continuous AI | https://blog.continue.dev/context-engineering-the-bottleneck-to-better-continuous-ai/ | --- |
+- `Andrej Karpathy` ⇒ [x.com ("vibe coding")](https://x.com/karpathy/status/1886192184808149383)
+  - There's a new kind of coding I call "vibe coding", where you fully give in to the vibes, [...](./archive/2025/x-com-karpathy-status-1886192184808149383.md)
+  - March 9, 2025
+- `Context Engineering` ⇒ [The Bottleneck to Better Continuous AI](https://blog.continue.dev/context-engineering-the-bottleneck-to-better-continuous-ai/)
+  - Back in 2019, I gave a presentation about building contextual AI assistants at the O'Reilly AI Conference. While AI has progressed dramatically since then, one challenge has remained constant: the art and science of providing the right context at the right time.
+  - July 3, 2025
 
 ## NL to SQL
 
-| Name | Description/Comments | Link(s) | Created time |
-| --- | --- | --- | --- |
-| texttosql_system_using_llm | --- | [reddit.com/r/LangChain/](https://www.reddit.com/r/LangChain/comments/1dtjafd/texttosql_system_using_llm/) | --- |
-| From Natural Language to SQL | Approaches and Challenges in Text2SQL | [toashishagarwal/text2sql](https://toashishagarwal.medium.com/from-natural-language-to-sql-approaches-and-challenges-in-text2sql-d1252ff86321) | --- |
-| Snowflake-AI/2 SQL Genie | --- | https://github.com/toashishagarwal/Snowflake-AI/blob/main/2%20SQL%20Genie/analyst_demo.py | --- |
-| Vanna | Python RAG framework for SQL generation and related functionality. | https://github.com/vanna-ai/vanna | --- |
-|julius.ai | The AI data analyst that works for you | https://julius.ai/ | --- |
+- `texttosql_system_using_llm` ⇒ [reddit.com/r/LangChain/](https://www.reddit.com/r/LangChain/comments/1dtjafd/texttosql_system_using_llm/)
+- `From Natural Language to SQL` | Approaches and Challenges in Text2SQL ⇒ [toashishagarwal/text2sql](https://toashishagarwal.medium.com/from-natural-language-to-sql-approaches-and-challenges-in-text2sql-d1252ff86321)
+- `Snowflake-AI/2 SQL Genie` ⇒ https://github.com/toashishagarwal/Snowflake-AI/blob/main/2%20SQL%20Genie/analyst_demo.py
+- `Vanna` | Python RAG framework for SQL generation and related functionality. ⇒ https://github.com/vanna-ai/vanna
+- `julius.ai` | The AI data analyst that works for you ⇒ https://julius.ai/
 
 ## Platforms
 
-|Name | Description/Comments | Link(s) | Created time |
-|--- | --- | --- | --- |
-|Zornade| --- | https://app.zornade.com/?lat=45.465850&lng=9.182532&zoom=17# | --- |
-|simstudio.ai| --- | https://www.simstudio.ai/workspace/ | --- |
-|zed.dev| The editor for what's next | https://zed.dev/ | --- |
-|notability.com| minimal interface with powerful AI tools | https://notability.com/ | --- |
-|--- | --- | --- | --- |
-|--- | --- | --- | --- |
-|--- | --- | --- | --- |
-
-
+- Zornade ⇒ https://app.zornade.com/
+- simstudio.ai ⇒ https://www.simstudio.ai/workspace/
+- zed.dev ⇒ https://zed.dev/
+  - The editor for what's next
+- notability.com ⇒ https://notability.com/
+  - minimal interface with powerful AI tools
 
 ## Other Resources
 
